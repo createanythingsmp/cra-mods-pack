@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-10T15:44:57Z",
+  "updated": "2026-11-10T16:41:43Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -93,13 +93,13 @@
       "name": "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
       "sha1": "c8cd9d1fd4a3913f7f453b397fcc5ef36aec4749",
       "size": 2119734,
-      "url": "https://gofile.io/d/j2cCP4xk"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar"
     },
     {
       "name": "CBCmoreshells-1.2.3.jar",
       "sha1": "6f400cac6a3e1d8d2c97e37a028fdc962d50769e",
       "size": 2081659,
-      "url": "https://gofile.io/d/Ls5PvgMs"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/CBCmoreshells-1.2.3.jar"
     },
     {
       "name": "cc_sable-neoforge-1.3.4.jar",
@@ -375,7 +375,7 @@
       "name": "createnuclear-2.0.1-neoforge.jar",
       "sha1": "f964c0739ea8baebd70b0e34e890e9e43b311c52",
       "size": 8356590,
-      "url": "https://gofile.io/d/RFmqDpZi"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/createnuclear-2.0.1-neoforge.jar"
     },
     {
       "name": "createpropulsion-1.1.5.jar",
@@ -411,7 +411,7 @@
       "name": "cupboard-1.21.1-4.0.jar",
       "sha1": "c9632e29158447d514663f230a734bed1aec0068",
       "size": 29598,
-      "url": "https://gofile.io/d/t89yPEm6"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/cupboard-1.21.1-4.0.jar"
     },
     {
       "name": "curios-neoforge-9.5.1+1.21.1.jar",
@@ -447,7 +447,7 @@
       "name": "doespotatotick-1.21.1-5.6.4.jar",
       "sha1": "d5fc5d18171da8465f5858550ed8b74e411e3131",
       "size": 46635,
-      "url": "https://gofile.io/d/TON1TLuf"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/doespotatotick-1.21.1-5.6.4.jar"
     },
     {
       "name": "dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
@@ -471,7 +471,7 @@
       "name": "duplicationless-1.21.1-1.2.1.jar",
       "sha1": "c3f8e32ee4239bb14c11940518085b66ca1cd5f5",
       "size": 230919,
-      "url": "https://gofile.io/d/EJQQ9M3M"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/duplicationless-1.21.1-1.2.1.jar"
     },
     {
       "name": "electroenergetics-1.21.1-1.1.4.jar",
@@ -507,7 +507,7 @@
       "name": "fastasyncworldsave-1.21-2.6.jar",
       "sha1": "87e019715314631f2c8288cf7c73a52a61b2d61b",
       "size": 11050,
-      "url": "https://gofile.io/d/v1GTgyRR"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/fastasyncworldsave-1.21-2.6.jar"
     },
     {
       "name": "ferritecore-7.0.3-neoforge.jar",
@@ -543,13 +543,13 @@
       "name": "ftb-library-neoforge-2101.1.35.jar",
       "sha1": "9922fa358983120edeed22194bf02bcf9c859fbb",
       "size": 1439018,
-      "url": "https://gofile.io/d/YIc1BbVR"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/ftb-library-neoforge-2101.1.35.jar"
     },
     {
       "name": "ftb-teams-neoforge-2101.1.10.jar",
       "sha1": "363376ae0fb22cb0527170fdf6a066d1da9b0225",
       "size": 302712,
-      "url": "https://gofile.io/d/PlyR1mPt"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/ftb-teams-neoforge-2101.1.10.jar"
     },
     {
       "name": "fuck-sable-1.8.0.jar",
@@ -651,7 +651,7 @@
       "name": "mianbao's modernwarfare-1.3.0-neoforge-1.21.1.jar",
       "sha1": "de0a7564a3db0117c871612be207a6996a86bff4",
       "size": 1233667,
-      "url": "https://gofile.io/d/M6rncYcp"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/mianbao's modernwarfare-1.3.0-neoforge-1.21.1.jar"
     },
     {
       "name": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
@@ -669,7 +669,7 @@
       "name": "morepropulsion-1.3.0.jar",
       "sha1": "9df17da7fbaef986fa874b076111020a3831dee9",
       "size": 783700,
-      "url": "https://gofile.io/d/4nI0bvtU"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/morepropulsion-1.3.0.jar"
     },
     {
       "name": "neovelocity-1.2.6+1.21.1-1.21.5.jar",
@@ -837,7 +837,7 @@
       "name": "txnilib-neoforge-1.0.24-1.21.1.jar",
       "sha1": "40dd5eb89064c62bca2dcdf6f7619823990dccb0",
       "size": 704709,
-      "url": "https://gofile.io/d/9VCaJMOk"
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/txnilib-neoforge-1.0.24-1.21.1.jar"
     },
     {
       "name": "veil-neoforge-1.21.1-4.5.2.jar",
