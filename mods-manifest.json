@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-10T16:41:43Z",
+  "updated": "2026-11-11T22:00:00Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -36,9 +36,27 @@
       "src": "modrinth"
     },
     {
+      "name": "alexscaves-2.0.10.jar",
+      "sha1": "366ddaac40f14cd0102f026b4d999753fc1db2a4",
+      "size": 74900204,
+      "src": "modrinth"
+    },
+    {
+      "name": "alexsmobs-1.22.17.jar",
+      "sha1": "5070e8070f60650d773bfd9f1d031496f8f50259",
+      "size": 26620546,
+      "src": "modrinth"
+    },
+    {
       "name": "architectury-13.0.11-neoforge.jar",
       "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
       "size": 584734,
+      "src": "modrinth"
+    },
+    {
+      "name": "artifacts-neoforge-13.2.5.jar",
+      "sha1": "fb6cd3be2d034dde369ffd7558c95c6daa44189e",
+      "size": 1086922,
       "src": "modrinth"
     },
     {
@@ -126,6 +144,12 @@
       "src": "modrinth"
     },
     {
+      "name": "citadel-1.21.1-2.7.6.jar",
+      "sha1": "e0392370117ec16a721f8d65728944398de77607",
+      "size": 3028943,
+      "src": "modrinth"
+    },
+    {
       "name": "clipboardcurios-1.0.0.jar",
       "sha1": "af027a3466a93ae33e2a7256ad574e865b03de60",
       "size": 527139,
@@ -162,9 +186,15 @@
       "src": "modrinth"
     },
     {
-      "name": "Create Encased-1.21.1-1.10.0-fix1.jar",
-      "sha1": "c37f6a614621b2c37e5fb1d78f07f31d9456e0c1",
-      "size": 3383308,
+      "name": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "sha1": "b044c51d00d60b5645a0c0890812935cd933555f",
+      "size": 63981,
+      "src": "modrinth"
+    },
+    {
+      "name": "Create Encased-1.21.1-1.10.1.jar",
+      "sha1": "a8b9d11015435bdf873decd25cee5223c1425cc8",
+      "size": 3380868,
       "src": "modrinth"
     },
     {
@@ -474,6 +504,12 @@
       "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/duplicationless-1.21.1-1.2.1.jar"
     },
     {
+      "name": "Ecologics-NeoForge-1.21.1-2.3.10_1.jar",
+      "sha1": "1ee73b3d6401f714b1adb93835f1ac99d4c2fe11",
+      "size": 2182497,
+      "src": "modrinth"
+    },
+    {
       "name": "electroenergetics-1.21.1-1.1.4.jar",
       "sha1": "e2e7dfa11767d17920571e1c7d2c37211421539c",
       "size": 4774719,
@@ -612,6 +648,12 @@
       "src": "modrinth"
     },
     {
+      "name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
+      "sha1": "f1826764b265e48d6705c223ccdf1e48cddc2a97",
+      "size": 292338,
+      "src": "modrinth"
+    },
+    {
       "name": "kotlinforforge-5.12.0-all.jar",
       "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
       "size": 7279264,
@@ -687,6 +729,12 @@
       "name": "open-parties-and-claims-neoforge-1.21.1-0.33.0.jar",
       "sha1": "6075cf36ac8d70bd1fd870e0eb9ac84685388df7",
       "size": 1903256,
+      "src": "modrinth"
+    },
+    {
+      "name": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+      "size": 174972,
       "src": "modrinth"
     },
     {
@@ -774,6 +822,18 @@
       "src": "modrinth"
     },
     {
+      "name": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+      "sha1": "940e93e9eaaf7db50c308c2a849a471830f6c1ea",
+      "size": 1265683,
+      "src": "modrinth"
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.5.33.2470.jar",
+      "sha1": "93446251b8ab6f2d4b61aab8ab6a501cd3704094",
+      "size": 1845993,
+      "src": "modrinth"
+    },
+    {
       "name": "spark-1.10.124-neoforge.jar",
       "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
       "size": 3642581,
@@ -846,6 +906,12 @@
       "src": "modrinth"
     },
     {
+      "name": "veinminer-neoforge-2.11.2+1.21.1.jar",
+      "sha1": "19f67a98cf5e7cfeefb089b5ec31450ac6d5bd53",
+      "size": 616301,
+      "src": "modrinth"
+    },
+    {
       "name": "vestalihy-2.5.3.jar",
       "sha1": "45aff553d76a0bce8001da48a548050490eeeeb2",
       "size": 31906823,
@@ -861,6 +927,12 @@
       "name": "VS-Sable-HoseConnectors-0.2.2-1.21.1.jar",
       "sha1": "c7bcae645d9c505b2bb68c97648008c65cd69621",
       "size": 2088408,
+      "src": "modrinth"
+    },
+    {
+      "name": "watut-neoforge-1.21.0-1.2.7.jar",
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "size": 432269,
       "src": "modrinth"
     },
     {
