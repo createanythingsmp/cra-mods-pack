@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-11T22:00:00Z",
+  "updated": "2026-11-11T22:23:18Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -903,12 +903,6 @@
       "name": "veil-neoforge-1.21.1-4.5.2.jar",
       "sha1": "b9994fd16bac1f78633e17b69ea04b76c0f2654f",
       "size": 3402614,
-      "src": "modrinth"
-    },
-    {
-      "name": "veinminer-neoforge-2.11.2+1.21.1.jar",
-      "sha1": "19f67a98cf5e7cfeefb089b5ec31450ac6d5bd53",
-      "size": 616301,
       "src": "modrinth"
     },
     {
