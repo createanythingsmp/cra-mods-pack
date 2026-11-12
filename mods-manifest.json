@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-12T09:18:22Z",
+  "updated": "2026-11-12T10:31:52Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -21,6 +21,12 @@
       "name": "aerocopycats-1.1.1.jar",
       "sha1": "3a93862421d0a8cdae1e3a3d7f0d4bd01e049007",
       "size": 14702,
+      "src": "modrinth"
+    },
+    {
+      "name": "AeroEngine-1.3.0.jar",
+      "sha1": "071a030a04ee45ccd611f719e7095341ddaf30af",
+      "size": 1589690,
       "src": "modrinth"
     },
     {
@@ -60,6 +66,12 @@
       "src": "modrinth"
     },
     {
+      "name": "azimuth-1.4.10.jar",
+      "sha1": "911e255bd09a6bcb2ca85ea172d1812e0f4665f1",
+      "size": 143818,
+      "src": "modrinth"
+    },
+    {
       "name": "baguettelib-1.21.1-NeoForge-2.0.7.jar",
       "sha1": "3f4d8f7548a71a93ac60feefad0722d92a42d4bd",
       "size": 85738,
@@ -90,9 +102,27 @@
       "src": "modrinth"
     },
     {
+      "name": "bits_n_bobs-2.3.5.jar",
+      "sha1": "50119ba6849f2b165ab692ab312dbe4867444ac0",
+      "size": 2433531,
+      "src": "modrinth"
+    },
+    {
       "name": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
       "sha1": "469497c209e77742a85020845a361851f14d99e2",
       "size": 3717706,
+      "src": "modrinth"
+    },
+    {
+      "name": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601",
+      "size": 361486,
+      "src": "modrinth"
+    },
+    {
+      "name": "CarryOnExtend-Architectury-neoforge-1.5.2.jar",
+      "sha1": "e60de5000a1f6d1fbb5f2048a8e7dfd1561fcb60",
+      "size": 60597,
       "src": "modrinth"
     },
     {
@@ -270,6 +300,12 @@
       "src": "modrinth"
     },
     {
+      "name": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+      "sha1": "5878bdf8facd954cce7da3a55ab1d5274fe4ef6d",
+      "size": 469490,
+      "src": "modrinth"
+    },
+    {
       "name": "create_flight_control-neoforge-0.8.3.jar",
       "sha1": "6efa89db07e45fe8687e8d1abe8ca284d3fb1630",
       "size": 5700878,
@@ -297,6 +333,12 @@
       "name": "create_radar-5.0.3-1.21.1.jar",
       "sha1": "b882aa5a868298bc39196489526d6e2414c050ea",
       "size": 5695511,
+      "src": "modrinth"
+    },
+    {
+      "name": "create_rustic_structures-1.0.1-neoforge-1.21.1.jar",
+      "sha1": "f8f8dea6a23f697c3f27196627bdf77d9147b8e4",
+      "size": 758491,
       "src": "modrinth"
     },
     {
@@ -366,6 +408,18 @@
       "src": "modrinth"
     },
     {
+      "name": "create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "sha1": "849df57070ffa75c2446b9c460d03f6b49fa089e",
+      "size": 1644485,
+      "src": "modrinth"
+    },
+    {
+      "name": "Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar",
+      "sha1": "05d47e5f723456ebe2058f39dd6baab1f9516f87",
+      "size": 1843340,
+      "src": "modrinth"
+    },
+    {
       "name": "create-stuff-additions1.21.1_v2.1.4b.jar",
       "sha1": "246915560f74b92e0186c22da26be8995380c443",
       "size": 1347181,
@@ -414,6 +468,12 @@
       "src": "modrinth"
     },
     {
+      "name": "createfood-neoforge-1.21.1-3.0.0.jar",
+      "sha1": "8cb5a2bf84c7ce28e0ca5815785da35d23fd6569",
+      "size": 11968172,
+      "src": "modrinth"
+    },
+    {
       "name": "createliquidfuel-3.0.0-1.21.1.jar",
       "sha1": "c061215a48f76d909675894aab165f1261267ab2",
       "size": 21815,
@@ -459,6 +519,12 @@
       "name": "createwingsplus-1.4.5.jar",
       "sha1": "da8d82da7651a49dda7faef7527e5bfdf0421ad7",
       "size": 169661,
+      "src": "modrinth"
+    },
+    {
+      "name": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "sha1": "d250804b7ecea365bc736ec36ec6fc3f933917f1",
+      "size": 583525,
       "src": "modrinth"
     },
     {
@@ -762,6 +828,18 @@
       "src": "modrinth"
     },
     {
+      "name": "powergrid-mc1.21.1-0.6.2.jar",
+      "sha1": "e09452dac8202e31f282149d45c49dcdb218bd54",
+      "size": 5738480,
+      "src": "modrinth"
+    },
+    {
+      "name": "ragdoll_corpse-1.21.1-0.4.0.jar",
+      "sha1": "0bcdfc1a2b78df7767ae6371042651bb780ad901",
+      "size": 886046,
+      "src": "modrinth"
+    },
+    {
       "name": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
       "sha1": "82a28ce51fdbc583477d7ae7c4c94cc6d23ec2b4",
       "size": 18728584,
@@ -789,6 +867,12 @@
       "name": "s_a_b-1.4.3-neoforge-1.21.1.jar",
       "sha1": "7a73d69b83d2a4b217a4cccaf142bbd5793f6ae8",
       "size": 1815476,
+      "src": "modrinth"
+    },
+    {
+      "name": "sable_player_ragdoll-1.21.1-0.8.1.jar",
+      "sha1": "bfb37d0d38b7a1fab249dd4c7b044f80c8aee802",
+      "size": 1529122,
       "src": "modrinth"
     },
     {
@@ -840,6 +924,12 @@
       "src": "modrinth"
     },
     {
+      "name": "sliceanddice-4.3.4-neoforge.jar",
+      "sha1": "bfcb12d13465caf6743f200fbd755b72705011e4",
+      "size": 1356389,
+      "src": "modrinth"
+    },
+    {
       "name": "sodium.jar",
       "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
       "size": 1292934,
@@ -867,6 +957,12 @@
       "name": "ssrd.jar",
       "sha1": "0639b720f16bfc817724b029433b55acbfb76ce7",
       "size": 74365,
+      "src": "modrinth"
+    },
+    {
+      "name": "struts-1.3.1.jar",
+      "sha1": "131663d29e0dd944e03299b35bda18aefacd1932",
+      "size": 216678,
       "src": "modrinth"
     },
     {
