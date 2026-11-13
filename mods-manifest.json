@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-12T21:57:12Z",
+  "updated": "2026-11-13T19:51:54Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -366,9 +366,9 @@
       "src": "modrinth"
     },
     {
-      "name": "create_train_parts-0.5.2-1.21.1-6.0.10-281.jar",
-      "sha1": "2d0dc7d7838f5bdaabdd96080b1e4b950bfd3306",
-      "size": 3699282,
+      "name": "create_train_parts-0.6.0-1.21.1-6.0.10-281.jar",
+      "sha1": "5baa6845b9134f03e65fb478dd516852eb9e0feb",
+      "size": 1306034,
       "src": "modrinth"
     },
     {
@@ -924,12 +924,6 @@
       "src": "modrinth"
     },
     {
-      "name": "sliceanddice-4.3.4-neoforge.jar",
-      "sha1": "d4f6e3f01d210b14b263ab70263dd60dcea63601",
-      "size": 1356386,
-      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/sliceanddice-4.3.4-neoforge.jar"
-    },
-    {
       "name": "sodium.jar",
       "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
       "size": 1292934,
@@ -978,9 +972,9 @@
       "src": "modrinth"
     },
     {
-      "name": "supplementaries-1.21.1-4.0.2-neoforge.jar",
-      "sha1": "af25cb08a82c72b3fb67508071ce627714bd2b57",
-      "size": 13840377,
+      "name": "supplementaries-1.21.1-4.1.0-neoforge.jar",
+      "sha1": "b36b2c6746669c3971c4d4e45dba777247b8e661",
+      "size": 13959013,
       "src": "modrinth"
     },
     {
