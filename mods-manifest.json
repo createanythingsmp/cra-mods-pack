@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-13T21:12:58Z",
+  "updated": "2026-11-14T23:29:51Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -54,9 +54,15 @@
       "src": "modrinth"
     },
     {
-      "name": "architectury-13.0.11-neoforge.jar",
-      "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
-      "size": 584734,
+      "name": "appleskin.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+      "size": 75804,
+      "src": "modrinth"
+    },
+    {
+      "name": "architectury-13.0.12-neoforge.jar",
+      "sha1": "646dace27624ac08ad8d229fe15f6601a8b7fbb2",
+      "size": 584731,
       "src": "modrinth"
     },
     {
@@ -171,6 +177,12 @@
       "name": "cc-tweaked-1.21.1-forge-1.121.0.jar",
       "sha1": "946c83390aadfe0d8077198fcf22804cee206637",
       "size": 3209662,
+      "src": "modrinth"
+    },
+    {
+      "name": "chat-heads.jar",
+      "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
+      "size": 91948,
       "src": "modrinth"
     },
     {
@@ -606,6 +618,48 @@
       "src": "modrinth"
     },
     {
+      "name": "emi-create-schematics.jar",
+      "sha1": "a34c4df9c1a39c553ac7cef28bb78132e4185cb6",
+      "size": 848445,
+      "src": "modrinth"
+    },
+    {
+      "name": "emi-enchanting.jar",
+      "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c",
+      "size": 15680,
+      "src": "modrinth"
+    },
+    {
+      "name": "emi-loot.jar",
+      "sha1": "cbf4d9c414835fcb9b33b41bcac2044a14d41372",
+      "size": 466654,
+      "src": "modrinth"
+    },
+    {
+      "name": "emi-ores.jar",
+      "sha1": "26e3f998295bae5178530d4bb217e824a2637121",
+      "size": 116663,
+      "src": "modrinth"
+    },
+    {
+      "name": "emi.jar",
+      "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+      "size": 1111538,
+      "src": "modrinth"
+    },
+    {
+      "name": "emiffect.jar",
+      "sha1": "0afecce68c1fa9e13ef46d4b20a67f65b19c9d8c",
+      "size": 38160,
+      "src": "modrinth"
+    },
+    {
+      "name": "emixx.jar",
+      "sha1": "e7b9188675a1acfe6b7132cab2f941a3f2766208",
+      "size": 136465,
+      "src": "modrinth"
+    },
+    {
       "name": "escalated-1.3.2+mc.1.21.1.jar",
       "sha1": "34854b74bd9c627b873cb21bb5ec15fbad038db6",
       "size": 512624,
@@ -621,6 +675,12 @@
       "name": "extra_gauges-2.1.2.jar",
       "sha1": "d6bc0896c33213d6b5623dba053dab2df9502bd4",
       "size": 1055930,
+      "src": "modrinth"
+    },
+    {
+      "name": "fallingtrees-neoforge-1.21.1-0.14.0.jar",
+      "sha1": "070260f182d10bdc23de5e8e9297bec0231e2bec",
+      "size": 4086627,
       "src": "modrinth"
     },
     {
@@ -648,9 +708,9 @@
       "src": "modrinth"
     },
     {
-      "name": "flyhigher-1.21.1-1.0.2.jar",
-      "sha1": "454660ac9b6df0f1c35f46c55266157d3804e245",
-      "size": 16171,
+      "name": "flyhigher-1.21.1-1.1.0.jar",
+      "sha1": "f88262fe75d2a89b075bc46bec77ed80bd93445b",
+      "size": 18773,
       "src": "modrinth"
     },
     {
@@ -726,24 +786,6 @@
       "src": "modrinth"
     },
     {
-      "name": "jei-1.21.1-neoforge-19.70.0.469.jar",
-      "sha1": "363f10ce1d8918381a125cc1e8d800caf1bcb40e",
-      "size": 4784333,
-      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/jei-1.21.1-neoforge-19.70.0.469.jar"
-    },
-    {
-      "name": "jei.jar",
-      "sha1": "363f10ce1d8918381a125cc1e8d800caf1bcb40e",
-      "size": 4784333,
-      "src": "modrinth"
-    },
-    {
-      "name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
-      "sha1": "f1826764b265e48d6705c223ccdf1e48cddc2a97",
-      "size": 292338,
-      "src": "modrinth"
-    },
-    {
       "name": "kotlinforforge-5.12.0-all.jar",
       "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
       "size": 7279264,
@@ -753,6 +795,12 @@
       "name": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
       "sha1": "3b9253fcfaa11586ce528fbc0a26175991c9408f",
       "size": 1015871,
+      "src": "modrinth"
+    },
+    {
+      "name": "kubejs-neoforge-2101.7.2-build.368.jar",
+      "sha1": "edf131afd474151afe076ea975ce5fec5a206ad8",
+      "size": 2281720,
       "src": "modrinth"
     },
     {
@@ -786,6 +834,12 @@
       "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/mianbao's modernwarfare-1.3.0-neoforge-1.21.1.jar"
     },
     {
+      "name": "modelfix.jar",
+      "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117",
+      "size": 47035,
+      "src": "modrinth"
+    },
+    {
       "name": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72",
       "size": 614138,
@@ -804,6 +858,12 @@
       "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/morepropulsion-1.3.0.jar"
     },
     {
+      "name": "naturalist-2.0.7-neoforge-1.21.1.jar",
+      "sha1": "a7f9f6d9991880c377d2248af5c1ea05a0aa1039",
+      "size": 11347884,
+      "src": "modrinth"
+    },
+    {
       "name": "neovelocity-1.2.6+1.21.1-1.21.5.jar",
       "sha1": "413eb7205c06d23c36df4df4895858584cb9351d",
       "size": 35464,
@@ -816,9 +876,21 @@
       "src": "modrinth"
     },
     {
+      "name": "not-enough-animations.jar",
+      "sha1": "137a878ed276a3dfab2715df1864d14f60bd3237",
+      "size": 1868196,
+      "src": "modrinth"
+    },
+    {
       "name": "open-parties-and-claims-neoforge-1.21.1-0.33.0.jar",
       "sha1": "6075cf36ac8d70bd1fd870e0eb9ac84685388df7",
       "size": 1903256,
+      "src": "modrinth"
+    },
+    {
+      "name": "pandalib-neoforge-1.21.1-0.6.2.jar",
+      "sha1": "0d93a27bcb4ee06be500c333d7232e1d1fe02706",
+      "size": 7904509,
       "src": "modrinth"
     },
     {
@@ -855,6 +927,12 @@
       "name": "rha-1.0.3b.jar",
       "sha1": "9be17aa8e9c273ed9f5ca8e34988751d459a3210",
       "size": 566229,
+      "src": "modrinth"
+    },
+    {
+      "name": "rhino-2101.2.8-build.91.jar",
+      "sha1": "56eab1d464ed0811c64040c64bd047df5cbc3aad",
+      "size": 980936,
       "src": "modrinth"
     },
     {
@@ -903,6 +981,12 @@
       "name": "sablefarandwide-1.0.0.jar",
       "sha1": "b526fb405ef6098de69e987207e5c11588c8c927",
       "size": 274487,
+      "src": "modrinth"
+    },
+    {
+      "name": "shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
+      "sha1": "bddbccd689529f7f7ab04479e62c5e09b0be6be5",
+      "size": 381204,
       "src": "modrinth"
     },
     {
@@ -978,9 +1062,9 @@
       "src": "modrinth"
     },
     {
-      "name": "supplementaries-1.21.1-4.1.0-neoforge.jar",
-      "sha1": "b36b2c6746669c3971c4d4e45dba777247b8e661",
-      "size": 13959013,
+      "name": "supplementaries-1.21.1-4.1.1-neoforge.jar",
+      "sha1": "b1e0c795341f98ce4980ef2d606f3b9f9ef38021",
+      "size": 13958834,
       "src": "modrinth"
     },
     {
@@ -1059,6 +1143,12 @@
       "name": "worldedit-mod-7.3.8.jar",
       "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
       "size": 6222854,
+      "src": "modrinth"
+    },
+    {
+      "name": "xaero-zoomout.jar",
+      "sha1": "e0f98bc1ecbacb987eeabb829d6d7d20ff8bba4e",
+      "size": 23448,
       "src": "modrinth"
     },
     {
