@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-15T07:50:09Z",
+  "updated": "2026-11-15T08:52:34Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -1149,12 +1149,6 @@
       "name": "worldedit-mod-7.3.8.jar",
       "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
       "size": 6222854,
-      "src": "modrinth"
-    },
-    {
-      "name": "xaero-zoomout.jar",
-      "sha1": "e0f98bc1ecbacb987eeabb829d6d7d20ff8bba4e",
-      "size": 23448,
       "src": "modrinth"
     },
     {
