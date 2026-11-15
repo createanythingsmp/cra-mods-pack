@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-14T23:29:51Z",
+  "updated": "2026-11-15T07:50:09Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -741,6 +741,12 @@
       "name": "fuck-sable-1.8.0.jar",
       "sha1": "25208bfed79dded5d3b56431bc78d715588a543e",
       "size": 203063,
+      "src": "modrinth"
+    },
+    {
+      "name": "fzzy-config.jar",
+      "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
+      "size": 2392720,
       "src": "modrinth"
     },
     {
