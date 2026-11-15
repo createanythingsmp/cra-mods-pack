@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-15T08:52:34Z",
+  "updated": "2026-11-15T22:06:59Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -789,6 +789,18 @@
       "name": "jade.jar",
       "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
       "size": 726853,
+      "src": "modrinth"
+    },
+    {
+      "name": "jei.jar",
+      "sha1": "363f10ce1d8918381a125cc1e8d800caf1bcb40e",
+      "size": 4784333,
+      "src": "modrinth"
+    },
+    {
+      "name": "just-zoom.jar",
+      "sha1": "e8eb95e2ff3730a9cf0491b1221745e4b6eb4d45",
+      "size": 168109,
       "src": "modrinth"
     },
     {
