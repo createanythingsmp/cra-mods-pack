@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-15T22:15:32Z",
+  "updated": "2026-11-18T22:33:35Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -144,9 +144,9 @@
       "src": "modrinth"
     },
     {
-      "name": "cbc_going_ballistic-0.3.2.jar",
-      "sha1": "0d5e33b634a10a66715e4426257d5964e6f3aec6",
-      "size": 214400,
+      "name": "cbc_going_ballistic-0.3.3.jar",
+      "sha1": "e111a251788801bccb84013c658a2205e958a49e",
+      "size": 214838,
       "src": "modrinth"
     },
     {
@@ -258,9 +258,9 @@
       "src": "modrinth"
     },
     {
-      "name": "Create Encased-1.21.1-1.10.1.jar",
-      "sha1": "a8b9d11015435bdf873decd25cee5223c1425cc8",
-      "size": 3380868,
+      "name": "Create Encased-1.21.1-1.10.1-fix1.jar",
+      "sha1": "2499c4fb1c18638206f230d55b7c8335e621ee78",
+      "size": 3396620,
       "src": "modrinth"
     },
     {
@@ -276,9 +276,9 @@
       "src": "modrinth"
     },
     {
-      "name": "create_aeronautics_throwable_rope_connector-0.4.3.jar",
-      "sha1": "63fcbbc960461d42a59b417665fb938c79919514",
-      "size": 187714,
+      "name": "create_aeronautics_throwable_rope_connector-0.5.0.jar",
+      "sha1": "32a016b25214a3d07b68413a502429d3542b11fb",
+      "size": 199746,
       "src": "modrinth"
     },
     {
@@ -606,9 +606,9 @@
       "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/duplicationless-1.21.1-1.2.1.jar"
     },
     {
-      "name": "Ecologics-NeoForge-1.21.1-2.3.10_1.jar",
-      "sha1": "1ee73b3d6401f714b1adb93835f1ac99d4c2fe11",
-      "size": 2182497,
+      "name": "Ecologics-NeoForge-1.21.1-2.3.11.jar",
+      "sha1": "88881b163f480dd105770ca79b471e61e0de9ae2",
+      "size": 2184245,
       "src": "modrinth"
     },
     {
@@ -810,9 +810,9 @@
       "src": "modrinth"
     },
     {
-      "name": "kotlinforforge-5.12.0-all.jar",
-      "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
-      "size": 7279264,
+      "name": "kotlinforforge-5.13.0-all.jar",
+      "sha1": "b1d5563f4e3db9ec4a4a2b371560aa171d6de237",
+      "size": 7364729,
       "src": "modrinth"
     },
     {
@@ -832,6 +832,12 @@
       "sha1": "29c1702f4e63096207aaff2481d8f4ae188c34a0",
       "size": 8019175,
       "src": "modrinth"
+    },
+    {
+      "name": "let_it_walk-0.1.5.jar",
+      "sha1": "2c780a37abc3252e7f03440244aad0ddb3ac90f2",
+      "size": 730661,
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/let_it_walk-0.1.5.jar"
     },
     {
       "name": "letsabletick-1.0.0.jar",
@@ -1020,9 +1026,9 @@
       "src": "modrinth"
     },
     {
-      "name": "simulatedcoasters-0.1.5.jar",
-      "sha1": "4d3381b781a1129f793358b8ae13e0abcd2e655b",
-      "size": 1892119,
+      "name": "simulatedcoasters-0.1.6.jar",
+      "sha1": "6e92311ebe385c8be822e8a9946fb70b9bffef1a",
+      "size": 1907773,
       "src": "modrinth"
     },
     {
@@ -1050,9 +1056,9 @@
       "src": "modrinth"
     },
     {
-      "name": "sophisticatedcore-1.21.1-1.5.35.2473.jar",
-      "sha1": "6e480fff57d27aa20a9c3488419422ac707a5f14",
-      "size": 1854505,
+      "name": "sophisticatedcore-1.21.1-1.5.38.2484.jar",
+      "sha1": "d03c42d2f00ddec0bf999b3525afe85dba6c6e46",
+      "size": 1855171,
       "src": "modrinth"
     },
     {
@@ -1080,15 +1086,15 @@
       "src": "modrinth"
     },
     {
-      "name": "supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
-      "sha1": "519506ced4c9126e1fbb2c7999636eec7d417e39",
-      "size": 593442,
+      "name": "supermartijn642corelib-1.1.26b-neoforge-mc1.21.jar",
+      "sha1": "ae2644cd4836e17b5ce8270d111b69e3c30c6035",
+      "size": 593501,
       "src": "modrinth"
     },
     {
-      "name": "supplementaries-1.21.1-4.1.1-neoforge.jar",
-      "sha1": "b1e0c795341f98ce4980ef2d606f3b9f9ef38021",
-      "size": 13958834,
+      "name": "supplementaries-1.21.1-4.1.3-neoforge.jar",
+      "sha1": "5fc5038ef40e472db8af3efe72acb6cd54156535",
+      "size": 13944682,
       "src": "modrinth"
     },
     {
