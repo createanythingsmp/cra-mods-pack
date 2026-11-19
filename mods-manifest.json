@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-18T22:33:35Z",
+  "updated": "2026-11-19T18:23:31Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -474,9 +474,9 @@
       "src": "modrinth"
     },
     {
-      "name": "createfactorycontroller-1.2.3-neoforge-1.21.1.jar",
-      "sha1": "53c1b253535c93db6a060c96e10f9e210a8340d7",
-      "size": 2235668,
+      "name": "createfactorycontroller-1.2.4-neoforge-1.21.1.jar",
+      "sha1": "e81fddc52008f72734d09c3eabc96018978d1a79",
+      "size": 2289542,
       "src": "modrinth"
     },
     {
@@ -546,9 +546,9 @@
       "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/cupboard-1.21.1-4.0.jar"
     },
     {
-      "name": "curios-neoforge-9.5.1+1.21.1.jar",
-      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
-      "size": 410690,
+      "name": "curios-neoforge-9.6.0+1.21.1.jar",
+      "sha1": "110fa48c45be8d8421bf2e0bd706f11ec47cc7f8",
+      "size": 411707,
       "src": "modrinth"
     },
     {
@@ -793,8 +793,8 @@
     },
     {
       "name": "jei.jar",
-      "sha1": "363f10ce1d8918381a125cc1e8d800caf1bcb40e",
-      "size": 4784333,
+      "sha1": "80faa0b3525728d9dddd1142b5b201358c9fe774",
+      "size": 7085566,
       "src": "modrinth"
     },
     {
@@ -1050,15 +1050,15 @@
       "src": "modrinth"
     },
     {
-      "name": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
-      "sha1": "940e93e9eaaf7db50c308c2a849a471830f6c1ea",
-      "size": 1265683,
+      "name": "sophisticatedbackpacks-1.21.1-3.26.22.2257.jar",
+      "sha1": "098cd62db8b38b937ca821d1de8511b9ed2c7142",
+      "size": 1266183,
       "src": "modrinth"
     },
     {
-      "name": "sophisticatedcore-1.21.1-1.5.38.2484.jar",
-      "sha1": "d03c42d2f00ddec0bf999b3525afe85dba6c6e46",
-      "size": 1855171,
+      "name": "sophisticatedcore-1.21.1-1.5.39.2489.jar",
+      "sha1": "27d19713fec2c1b1e8e8158b2c7e285d6153778b",
+      "size": 1855442,
       "src": "modrinth"
     },
     {
