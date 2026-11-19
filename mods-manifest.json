@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-19T18:23:31Z",
+  "updated": "2026-11-19T19:22:26Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -855,6 +855,12 @@
       "name": "lithostitched-1.8.1-neoforge-21.1.jar",
       "sha1": "88cdded5b617e19b4d2676948b5550699de23578",
       "size": 1023751,
+      "src": "modrinth"
+    },
+    {
+      "name": "mezzconfig.jar",
+      "sha1": "2382e29c9a0f44d4f4b9baa4cb3f6a356e048e60",
+      "size": 347249,
       "src": "modrinth"
     },
     {
