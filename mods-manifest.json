@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-19T19:22:26Z",
+  "updated": "2026-11-20T18:13:57Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -174,9 +174,9 @@
       "src": "modrinth"
     },
     {
-      "name": "cc-tweaked-1.21.1-forge-1.121.0.jar",
-      "sha1": "946c83390aadfe0d8077198fcf22804cee206637",
-      "size": 3209662,
+      "name": "cc-tweaked-1.21.1-forge-1.122.0.jar",
+      "sha1": "19fcf36b45d5927c8e5785bbf08c8a58fac4ee6a",
+      "size": 3220921,
       "src": "modrinth"
     },
     {
@@ -318,9 +318,9 @@
       "src": "modrinth"
     },
     {
-      "name": "create_flight_control-neoforge-0.8.3.jar",
-      "sha1": "6efa89db07e45fe8687e8d1abe8ca284d3fb1630",
-      "size": 5700878,
+      "name": "create_flight_control-neoforge-0.8.5.jar",
+      "sha1": "cbb58287fe7f9443ced6309dc0f4f4d42a3b14da",
+      "size": 6099288,
       "src": "modrinth"
     },
     {
@@ -408,9 +408,9 @@
       "src": "modrinth"
     },
     {
-      "name": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
-      "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
-      "size": 33123131,
+      "name": "create-aeronautics-bundled-1.21.1-1.3.3.jar",
+      "sha1": "fc2757dad6ac888fc7624865d8ad2d2e02fad8f3",
+      "size": 33133981,
       "src": "modrinth"
     },
     {
@@ -793,8 +793,8 @@
     },
     {
       "name": "jei.jar",
-      "sha1": "80faa0b3525728d9dddd1142b5b201358c9fe774",
-      "size": 7085566,
+      "sha1": "0154e6da348e4639f1fdbe2df834f94afcc5368c",
+      "size": 7091096,
       "src": "modrinth"
     },
     {
@@ -900,12 +900,6 @@
       "src": "modrinth"
     },
     {
-      "name": "neovelocity-1.2.6+1.21.1-1.21.5.jar",
-      "sha1": "413eb7205c06d23c36df4df4895858584cb9351d",
-      "size": 35464,
-      "src": "modrinth"
-    },
-    {
       "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
       "sha1": "1bea6b61378ba80f038256c4345d9ff3b67928c4",
       "size": 60296,
@@ -939,6 +933,12 @@
       "name": "powergrid-mc1.21.1-0.6.2.jar",
       "sha1": "e09452dac8202e31f282149d45c49dcdb218bd54",
       "size": 5738480,
+      "src": "modrinth"
+    },
+    {
+      "name": "proxy-compatible-forge-1.3.1.jar",
+      "sha1": "c5f4ffc9356a55296669e78ce72cad172642e370",
+      "size": 706613,
       "src": "modrinth"
     },
     {
