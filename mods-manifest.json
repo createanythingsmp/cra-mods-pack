@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-20T18:13:57Z",
+  "updated": "2026-11-21T17:04:04Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -480,9 +480,9 @@
       "src": "modrinth"
     },
     {
-      "name": "createfood-neoforge-1.21.1-3.0.0.jar",
-      "sha1": "8cb5a2bf84c7ce28e0ca5815785da35d23fd6569",
-      "size": 11968172,
+      "name": "createfood-neoforge-1.21.1-3.1.0.jar",
+      "sha1": "a5e91927804a373c6680f03e250586bd5b2a6135",
+      "size": 12362963,
       "src": "modrinth"
     },
     {
@@ -942,12 +942,6 @@
       "src": "modrinth"
     },
     {
-      "name": "ragdoll_corpse-1.21.1-0.4.0.jar",
-      "sha1": "0bcdfc1a2b78df7767ae6371042651bb780ad901",
-      "size": 886046,
-      "src": "modrinth"
-    },
-    {
       "name": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
       "sha1": "82a28ce51fdbc583477d7ae7c4c94cc6d23ec2b4",
       "size": 18728584,
@@ -981,12 +975,6 @@
       "name": "s_a_b-1.4.3-neoforge-1.21.1.jar",
       "sha1": "7a73d69b83d2a4b217a4cccaf142bbd5793f6ae8",
       "size": 1815476,
-      "src": "modrinth"
-    },
-    {
-      "name": "sable_player_ragdoll-1.21.1-0.8.1.jar",
-      "sha1": "bfb37d0d38b7a1fab249dd4c7b044f80c8aee802",
-      "size": 1529122,
       "src": "modrinth"
     },
     {
@@ -1098,9 +1086,9 @@
       "src": "modrinth"
     },
     {
-      "name": "supplementaries-1.21.1-4.1.3-neoforge.jar",
-      "sha1": "5fc5038ef40e472db8af3efe72acb6cd54156535",
-      "size": 13944682,
+      "name": "supplementaries-1.21.1-4.1.4-neoforge.jar",
+      "sha1": "61932662ec2d95634a7685543a58b2cc99125e11",
+      "size": 13944698,
       "src": "modrinth"
     },
     {
