@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-24T15:31:05Z",
+  "updated": "2026-11-25T17:58:59Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -456,6 +456,12 @@
       "src": "modrinth"
     },
     {
+      "name": "createbigcannons-5.11.7+pr987.jar",
+      "sha1": "01e6c8d71e7af079b6250fa71a15828044adafdd",
+      "size": 3787283,
+      "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/createbigcannons-5.11.7+pr987.jar"
+    },
+    {
       "name": "createcurios-neoforge-1.2.0.jar",
       "sha1": "341bf819a4442758172b4b8455ae373bb896ab96",
       "size": 44323,
@@ -546,9 +552,9 @@
       "url": "https://raw.githubusercontent.com/createanythingsmp/cra-mods-pack/main/jars/cupboard-1.21.1-4.0.jar"
     },
     {
-      "name": "curios-neoforge-9.6.0+1.21.1.jar",
-      "sha1": "110fa48c45be8d8421bf2e0bd706f11ec47cc7f8",
-      "size": 411707,
+      "name": "curios-neoforge-9.6.1+1.21.1.jar",
+      "sha1": "0655348ff267e114dff016332ea7ed4527b43284",
+      "size": 411934,
       "src": "modrinth"
     },
     {
@@ -1039,8 +1045,8 @@
     },
     {
       "name": "sodium.jar",
-      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
-      "size": 1292934,
+      "sha1": "b2533787ed4f43d2dda616b3770c616690f6f626",
+      "size": 1297912,
       "src": "modrinth"
     },
     {
@@ -1050,9 +1056,9 @@
       "src": "modrinth"
     },
     {
-      "name": "sophisticatedcore-1.21.1-1.5.42.2496.jar",
-      "sha1": "0446a746e4633c8e93dbe4c9d60efba5c8bb5759",
-      "size": 1856954,
+      "name": "sophisticatedcore-1.21.1-1.5.43.2504.jar",
+      "sha1": "f85718b839c7d330a8b8574de759d7edf13da672",
+      "size": 1856959,
       "src": "modrinth"
     },
     {
