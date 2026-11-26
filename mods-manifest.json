@@ -1,6 +1,6 @@
 {
   "pack": "CrA-mods",
-  "updated": "2026-11-25T17:58:59Z",
+  "updated": "2026-11-26T18:05:00Z",
   "mcVersion": "1.21.1",
   "loaderKind": "neoforge",
   "loaderVersion": "21.1.265",
@@ -450,12 +450,6 @@
       "src": "modrinth"
     },
     {
-      "name": "createbigcannons-5.11.7+mc.1.21.1.jar",
-      "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
-      "size": 3771506,
-      "src": "modrinth"
-    },
-    {
       "name": "createbigcannons-5.11.7+pr987.jar",
       "sha1": "01e6c8d71e7af079b6250fa71a15828044adafdd",
       "size": 3787283,
@@ -799,8 +793,8 @@
     },
     {
       "name": "jei.jar",
-      "sha1": "5049346ee5d60346dab7546638601a884faa167b",
-      "size": 7103608,
+      "sha1": "3f7aa4dce7fa75e9d8e2d32786237ed9b41983a1",
+      "size": 7103912,
       "src": "modrinth"
     },
     {
@@ -1045,8 +1039,8 @@
     },
     {
       "name": "sodium.jar",
-      "sha1": "b2533787ed4f43d2dda616b3770c616690f6f626",
-      "size": 1297912,
+      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+      "size": 1292934,
       "src": "modrinth"
     },
     {
